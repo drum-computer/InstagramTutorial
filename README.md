@@ -1,2 +1,3 @@
-# Instagram_tutorial
-source file for https://youtu.be/-uVL5OR_Jyk
+Парсим топ инстаграма при помощи пайтона и TouchDesigner
+Здесь вы можете скачать файл проекта, который получается у меня по итогу туториала на ютюбе. 
+Ссылка на туториал https://youtu.be/-uVL5OR_Jyk
